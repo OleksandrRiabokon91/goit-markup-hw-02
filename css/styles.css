@@ -112,6 +112,7 @@ a {
   background-color: #f4f4fd;
 }
 .team-title {
+  text-transform: capitalize;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -143,6 +144,7 @@ a {
 .portfolio {
 }
 .portfolio-title {
+  text-transform: capitalize;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
